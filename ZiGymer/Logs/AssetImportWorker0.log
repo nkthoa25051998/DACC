@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 8112 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/LENOVO/Desktop/DACC/ZiGymer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52378
+Successfully changed project path to: C:/Users/LENOVO/Desktop/DACC/ZiGymer
+C:/Users/LENOVO/Desktop/DACC/ZiGymer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/LENOVO/Desktop/DACC/ZiGymer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   NVIDIA
+    VRAM:     2996 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002467 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.396 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001102 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.498 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1221 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 5.610600 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.135100 ms MarkObjects: 5.200000 ms  DeleteObjects: 0.040700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Content/Back.txt
+  artifactKey: Guid(c3f356a2fb8eda241b50e539c5f142d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Back.txt using Guid(c3f356a2fb8eda241b50e539c5f142d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dc6b08b1d4744d968552ebc686fff2') in 0.072519 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.4 MB.
+System memory in use after: 49.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 5.617900 ms (FindLiveObjects: 0.223700 ms CreateObjectMapping: 0.078500 ms MarkObjects: 5.295300 ms  DeleteObjects: 0.018600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.200302 seconds.
+  path: Assets/Content/Thighs.txt
+  artifactKey: Guid(e064e09ce8e0dd143ae76d6ef377be43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Thighs.txt using Guid(e064e09ce8e0dd143ae76d6ef377be43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8157449af0e8494654dfd4c820a96785') in 0.010512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.591518 seconds.
+  path: Assets/Content/HindThighs.txt
+  artifactKey: Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/HindThighs.txt using Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1e358a77009a646a683a9b806e2dc7') in 0.009229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.341896 seconds.
+  path: Assets/Content/HindThighs.txt
+  artifactKey: Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/HindThighs.txt using Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b02a90fa58a166c37f47517359329fc') in 0.003745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.425018 seconds.
+  path: Assets/Content/Back.txt
+  artifactKey: Guid(c3f356a2fb8eda241b50e539c5f142d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Back.txt using Guid(c3f356a2fb8eda241b50e539c5f142d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf7ee465e1eb6d03e65594129d2fcc5') in 0.003523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 147.400648 seconds.
+  path: Assets/Content/HindThighs.txt
+  artifactKey: Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/HindThighs.txt using Guid(6a2a23d6bbd2d274faebc42ac7ac3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21d082faff342806fb6f476e0225d69') in 0.003445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.445698 seconds.
+  path: Assets/Content/Thighs.txt
+  artifactKey: Guid(e064e09ce8e0dd143ae76d6ef377be43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Thighs.txt using Guid(e064e09ce8e0dd143ae76d6ef377be43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b355f3df6036395e53736931d3ac3b5c') in 0.021495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.982076 seconds.
+  path: Assets/Content/waist.txt
+  artifactKey: Guid(f0f1f9e79f5e01340ae6d653b56577e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/waist.txt using Guid(f0f1f9e79f5e01340ae6d653b56577e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4287e1b3a6bf22327841b2b5569b23') in 0.009388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.997525 seconds.
+  path: Assets/Content/waist.txt
+  artifactKey: Guid(f0f1f9e79f5e01340ae6d653b56577e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/waist.txt using Guid(f0f1f9e79f5e01340ae6d653b56577e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4663491335e2441a50381ede33f296') in 0.008242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.137790 seconds.
+  path: Assets/Content/Calf.txt
+  artifactKey: Guid(c2eb44784df6c8740b0da5b6bbdd9527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Calf.txt using Guid(c2eb44784df6c8740b0da5b6bbdd9527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345caf39d966c759e011c79a8805cb02') in 0.008643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.641124 seconds.
+  path: Assets/Content/Calf.txt
+  artifactKey: Guid(c2eb44784df6c8740b0da5b6bbdd9527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Calf.txt using Guid(c2eb44784df6c8740b0da5b6bbdd9527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b6d0e2b9a0136a94d11675a9da4a32') in 0.002763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.206461 seconds.
+  path: Assets/Content/Shoulder.txt
+  artifactKey: Guid(4cf689c81fd197c4492517d514f404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Shoulder.txt using Guid(4cf689c81fd197c4492517d514f404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680cff8bcdb479228cfc0b0fa2a320c0') in 0.011212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.765736 seconds.
+  path: Assets/Content/Shoulder.txt
+  artifactKey: Guid(4cf689c81fd197c4492517d514f404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Shoulder.txt using Guid(4cf689c81fd197c4492517d514f404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03627709583ddf7384543eca48ee47ce') in 0.005837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.504917 seconds.
+  path: Assets/Content/Biceps.txt
+  artifactKey: Guid(9756307f6252cc14e8d8c89b693b8317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Biceps.txt using Guid(9756307f6252cc14e8d8c89b693b8317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cb439e7e90b5c60d0add04263788a9') in 0.011933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 127.624096 seconds.
+  path: Assets/Content/Biceps.txt
+  artifactKey: Guid(9756307f6252cc14e8d8c89b693b8317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/Biceps.txt using Guid(9756307f6252cc14e8d8c89b693b8317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aad8f73247a181228d6f70118f53efa') in 0.004040 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1215 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 1.957000 ms (FindLiveObjects: 0.134700 ms CreateObjectMapping: 0.040600 ms MarkObjects: 1.764500 ms  DeleteObjects: 0.015900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
