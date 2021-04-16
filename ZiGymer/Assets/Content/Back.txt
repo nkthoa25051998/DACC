@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿A. Bài tập Wide-Grip Lat Pulldown (kéo cáp rộng tay)
 1. Tư thế bắt đầu trên máy cáp với chân cố định dưới thanh chắn được chỉnh phùhợp, 2 tay nắm lấy thanh ngang ở khoảng cách rộng hơn 2 vai, lưng giữ đườngcong sinh lý.
 
@@ -41,3 +42,6 @@ F.Bài tập Hyperextensions
 2. Hạ thân trên xuống tới khi bạn cảm thấy căng tức ở gân kheo, sau đó nângngười trở lại vị trí ban đầu (tuyệt đối không ưỡn cong hay vặn lưng khi thực hiệnbài tập này).
 
 3. Lặp lại 12 cái – hiệp 1, 10 cái – hiệp 2, 8 cái – hiệp 3 với mức tạ tăng dần. Nghỉ 2phút giữa mỗi hiệp.
+=======
+﻿ádbasufbasnfaksfkjasfnak
+>>>>>>> f8d58ad5ed2d4071d2d2cbbf8ffadb5c4e0d1edc

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿1. Những bài tập bắp chân to ra tại nhà
 Người ta nghe nói nhiều về cái bài tập giúp bắp chân gọn gàng nhưng không biết rằng bên cạnh đó cũng có những bài tập cho bắp chân to hơn tại nhà một cách đáng kể đấy! Tuy nhiên trước khi tập những bài tập giúp to chân ra dưới đây, bạn phải đọc thật kỹ hướng dẫn để làm đúng và hiệu quả cao hơn.
 1.1. Bài tập to bắp chân: Squat 
@@ -40,3 +41,6 @@ Ngoài bài tập cơ bản này, các bạn cũng có thể nâng dần độ k
 
 1.6. Squat với tạ đơn
 Đây là một trong các bài tập chân tại nhà cho nam được nhiều người vô cùng yêu thích. Không chỉ giúp chân to, bài tập còn tác động lên nhiều cơ, giúp cơ thể phát triển toàn diện.
+=======
+﻿dbjhgbkdnjkdngndg
+>>>>>>> f8d58ad5ed2d4071d2d2cbbf8ffadb5c4e0d1edc
