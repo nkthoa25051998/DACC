@@ -59,8 +59,11 @@
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Content\Thighs.txt" />
+     <None Include="Assets\Content\waist.txt" />
      <None Include="Assets\Content\stomach.txt" />
+     <None Include="Assets\Content\Back.txt" />
      <None Include="Assets\Content\chest.txt" />
+     <None Include="Assets\Content\HindThighs.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
